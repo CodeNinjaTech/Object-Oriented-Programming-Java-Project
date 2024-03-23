@@ -44,7 +44,3 @@ Build a constructor which accepts only the first 3 properties of Person and the 
 - `toString` which displays all elements of Staff using both toString of Person
 
 Finally, build a program (main) in which the classes Student and Staff are used. That is, create two objects, a Student and a Staff and call the `toString()` methods for each object.
-
-### Repository Name
-
-"Java-Class-Subclass-Creation"
