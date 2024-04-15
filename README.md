@@ -1,5 +1,7 @@
 # Class Creation and Inheritance - Object Oriented Programming Java Project
 
+Project for the Java Course of the Department of Programmers-Analysts of the School of Computer Programmers of the Hellenic Armed Forces
+
 ## Description
 
 Create a class named `Person` that has the following properties encapsulated:
